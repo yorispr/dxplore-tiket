@@ -1,0 +1,86 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Search Flight</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <form #form="ngForm" (ngSubmit)="submitData(form)" novalidate>
+
+  <ion-item>
+    <ion-label>From</ion-label>
+    <ion-input (click)="showAirport(0)" type="text" [(ngModel)]="flight.fromcity" name="fromcity"></ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-label>To</ion-label>
+    <ion-input type="text" (click)="showAirport(1)" [(ngModel)]="flight.tocity" name="tocity"></ion-input>
+  </ion-item>
+
+    <ion-item>
+    <ion-label>Departure Date</ion-label>
+    <ion-datetime pickerFormat="DD-MMM-YYYY" displayFormat="DDDD, DD MMMM YYYY" min="{{minin}}"[(ngModel)]="flight.departdate" name="departdate">{{date}}</ion-datetime>
+  </ion-item>
+
+    <ion-list radio-group [(ngModel)]="flight.isOneWay" name="radiogroup">
+      <ion-grid>
+        <ion-row>
+          <ion-col width-50>
+            <ion-item>
+              <ion-label>One Way</ion-label>
+              <ion-radio checked="true" value="true"></ion-radio>
+            </ion-item>
+          </ion-col>
+
+          <ion-col width-50>
+            <ion-item>
+              <ion-label>Return</ion-label>
+              <ion-radio value="false" (ionSelect)="disableArrivalTime()"></ion-radio>
+            </ion-item>
+          </ion-col>
+        </ion-row>
+      </ion-grid>
+    </ion-list>
+
+  <ion-item >
+    <ion-label>Return Date</ion-label>
+    <ion-datetime disabled={{flight.isOneWay}} pickerFormat="DD-MMM-YYYY" displayFormat="DDDD, DD MMMM YYYY" [(ngModel)]="flight.returndate" min="{{minout}}" name="returndate"></ion-datetime>
+  </ion-item>
+
+    <ion-grid>
+      <ion-row>
+        <ion-col width-33>
+          <ion-item>
+            <ion-label>Adult</ion-label>
+            <ion-select [(ngModel)]="flight.adult" name="adult"  okText="Select">
+              <ion-option *ngFor="let count of passengerscount" value="{{count}}">
+                {{count}}
+              </ion-option>
+            </ion-select>
+          </ion-item>
+        </ion-col>
+        <ion-col width-33>
+          <ion-item>
+            <ion-label>Child</ion-label>
+            <ion-select [(ngModel)]="flight.child" name="child"  okText="Select">
+              <ion-option *ngFor="let count of passengerscountchild" value="{{count}}">
+                {{count}}
+              </ion-option>
+            </ion-select>
+          </ion-item>
+        </ion-col>
+        <ion-col width-33>
+          <ion-item>
+            <ion-label>Adult</ion-label>
+            <ion-select [(ngModel)]="flight.infant" name="infant"  okText="Select">
+              <ion-option *ngFor="let count of passengerscountchild" value="{{count}}">
+                {{count}}
+              </ion-option>
+            </ion-select>
+          </ion-item>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+    <button ion-button type="submit" block>Cari</button>
+  </form>
+</ion-content>

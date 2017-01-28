@@ -1,0 +1,2713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response type="FLIGHTAVAILABILITY">
+  <trip type="departure">
+    <listitem>
+      <item>
+        <listflight>
+          <flight>
+            <flightno>GA 201</flightno>
+            <airlinecode>GA</airlinecode>
+            <fromcity>JOG</fromcity>
+            <tocity>CGK</tocity>
+            <departdate>24-Feb-2017</departdate>
+            <departtime>06:00</departtime>
+            <arrivetime>07:20</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+          <flight>
+            <flightno>GA 502</flightno>
+            <airlinecode>GA</airlinecode>
+            <fromcity>CGK</fromcity>
+            <tocity>PNK</tocity>
+            <departdate>24-Feb-2017</departdate>
+            <departtime>08:25</departtime>
+            <arrivetime>10:05</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+        </listflight>
+        <listclassgroup>
+          <classgroup>
+            <class>
+              <code>S</code>
+              <availcode>9</availcode>
+              <fare>693000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>V</code>
+              <availcode>9</availcode>
+              <fare>803000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>T</code>
+              <availcode>9</availcode>
+              <fare>913000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>G</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Q</code>
+              <availcode>9</availcode>
+              <fare>1010900</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>9</availcode>
+              <fare>1056000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>9</availcode>
+              <fare>1089000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>9</availcode>
+              <fare>1122000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>9</availcode>
+              <fare>1138500</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>9</availcode>
+              <fare>1152800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>2</availcode>
+              <fare>1681900</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>9</availcode>
+              <fare>2004200</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>9</availcode>
+              <fare>2261600</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>J</code>
+              <availcode>9</availcode>
+              <fare>2647700</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+          <classgroup>
+
+            <class>
+              <code>G</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>9</availcode>
+              <fare>1268000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>9</availcode>
+              <fare>1378000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>9</availcode>
+              <fare>1510000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>9</availcode>
+              <fare>1653000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>9</availcode>
+              <fare>1804800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>2</availcode>
+              <fare>2401000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>9</availcode>
+              <fare>2852000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>9</availcode>
+              <fare>3212800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>J</code>
+              <availcode>9</availcode>
+              <fare>3754000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+
+        </listclassgroup>
+      </item>
+
+      <item>
+        <listflight>
+
+          <flight>
+            <flightno>GA 203</flightno>
+            <airlinecode>GA</airlinecode>
+            <fromcity>JOG</fromcity>
+            <tocity>CGK</tocity>
+            <departdate>24-Feb-2017</departdate>
+            <departtime>07:25</departtime>
+            <arrivetime>08:45</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+
+          <flight>
+            <flightno>GA 512</flightno>
+            <airlinecode>GA</airlinecode>
+            <fromcity>CGK</fromcity>
+            <tocity>PNK</tocity>
+            <departdate>24-Feb-2017</departdate>
+            <departtime>10:15</departtime>
+            <arrivetime>11:50</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+
+        </listflight>
+        <listclassgroup>
+
+
+          <classgroup>
+
+            <class>
+              <code>V</code>
+              <availcode>9</availcode>
+              <fare>803000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>T</code>
+              <availcode>9</availcode>
+              <fare>913000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>G</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Q</code>
+              <availcode>9</availcode>
+              <fare>1010900</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>9</availcode>
+              <fare>1056000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>9</availcode>
+              <fare>1089000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>9</availcode>
+              <fare>1122000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>9</availcode>
+              <fare>1138500</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>9</availcode>
+              <fare>1152800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>1</availcode>
+              <fare>1681900</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>9</availcode>
+              <fare>2004200</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>9</availcode>
+              <fare>2261600</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>J</code>
+              <availcode>9</availcode>
+              <fare>2647700</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+          <classgroup>
+
+            <class>
+              <code>G</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>9</availcode>
+              <fare>1268000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>9</availcode>
+              <fare>1378000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>9</availcode>
+              <fare>1510000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>9</availcode>
+              <fare>1653000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>9</availcode>
+              <fare>1804800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>1</availcode>
+              <fare>2401000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>9</availcode>
+              <fare>2852000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>9</availcode>
+              <fare>3212800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>J</code>
+              <availcode>9</availcode>
+              <fare>3754000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+
+        </listclassgroup>
+      </item>
+
+      <item>
+        <listflight>
+
+          <flight>
+            <flightno>GA 205</flightno>
+            <airlinecode>GA</airlinecode>
+            <fromcity>JOG</fromcity>
+            <tocity>CGK</tocity>
+            <departdate>24-Feb-2017</departdate>
+            <departtime>10:05</departtime>
+            <arrivetime>11:25</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+
+          <flight>
+            <flightno>GA 504</flightno>
+            <airlinecode>GA</airlinecode>
+            <fromcity>CGK</fromcity>
+            <tocity>PNK</tocity>
+            <departdate>24-Feb-2017</departdate>
+            <departtime>13:00</departtime>
+            <arrivetime>14:30</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+
+        </listflight>
+        <listclassgroup>
+
+
+          <classgroup>
+
+            <class>
+              <code>G</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>0</availcode>
+              <fare>1056000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>0</availcode>
+              <fare>1089000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>0</availcode>
+              <fare>1122000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>0</availcode>
+              <fare>1138500</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>7</availcode>
+              <fare>1152800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>2</availcode>
+              <fare>1681900</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>9</availcode>
+              <fare>2004200</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>9</availcode>
+              <fare>2261600</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>J</code>
+              <availcode>9</availcode>
+              <fare>2647700</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+          <classgroup>
+
+            <class>
+              <code>G</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>0</availcode>
+              <fare>1268000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>0</availcode>
+              <fare>1378000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>0</availcode>
+              <fare>1510000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>0</availcode>
+              <fare>1653000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>7</availcode>
+              <fare>1804800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>2</availcode>
+              <fare>2401000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>9</availcode>
+              <fare>2852000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>9</availcode>
+              <fare>3212800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>J</code>
+              <availcode>9</availcode>
+              <fare>3754000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+
+        </listclassgroup>
+      </item>
+
+      <item>
+        <listflight>
+
+          <flight>
+            <flightno>SJ231</flightno>
+            <airlinecode>SJ</airlinecode>
+            <fromcity>JOG</fromcity>
+            <tocity>CGK</tocity>
+            <departdate>24-Feb-2017</departdate>
+            <departtime>11:00</departtime>
+            <arrivetime>12:10</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+
+          <flight>
+            <flightno>SJ182</flightno>
+            <airlinecode>SJ</airlinecode>
+            <fromcity>CGK</fromcity>
+            <tocity>PNK</tocity>
+            <departdate>24-Feb-2017</departdate>
+            <departtime>14:15</departtime>
+            <arrivetime>15:40</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+
+        </listflight>
+        <listclassgroup>
+
+
+          <classgroup>
+
+            <class>
+              <code>O</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>U</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>X</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>E</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>G</code>
+              <availcode>9</availcode>
+              <fare>418000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>V</code>
+              <availcode>9</availcode>
+              <fare>451000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>T</code>
+              <availcode>9</availcode>
+              <fare>495000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Q</code>
+              <availcode>9</availcode>
+              <fare>539000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>9</availcode>
+              <fare>594000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>9</availcode>
+              <fare>649000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>L</code>
+              <availcode>9</availcode>
+              <fare>704000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>9</availcode>
+              <fare>759000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>H</code>
+              <availcode>9</availcode>
+              <fare>814000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>9</availcode>
+              <fare>869000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>W</code>
+              <availcode>9</availcode>
+              <fare>924000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>S</code>
+              <availcode>9</availcode>
+              <fare>979000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>9</availcode>
+              <fare>1042800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+          <classgroup>
+
+            <class>
+              <code>O</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>U</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>X</code>
+              <availcode>5</availcode>
+              <fare>456000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>E</code>
+              <availcode>9</availcode>
+              <fare>500000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>G</code>
+              <availcode>9</availcode>
+              <fare>544000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>V</code>
+              <availcode>9</availcode>
+              <fare>599000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>T</code>
+              <availcode>9</availcode>
+              <fare>687000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Q</code>
+              <availcode>9</availcode>
+              <fare>775000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>9</availcode>
+              <fare>863000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>9</availcode>
+              <fare>951000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>L</code>
+              <availcode>9</availcode>
+              <fare>1039000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>9</availcode>
+              <fare>1127000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>H</code>
+              <availcode>9</availcode>
+              <fare>1215000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>9</availcode>
+              <fare>1303000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>W</code>
+              <availcode>9</availcode>
+              <fare>1391000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>S</code>
+              <availcode>9</availcode>
+              <fare>1457000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>9</availcode>
+              <fare>1507600</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+
+        </listclassgroup>
+      </item>
+
+      <item>
+        <listflight>
+
+          <flight>
+            <flightno>SJ231</flightno>
+            <airlinecode>SJ</airlinecode>
+            <fromcity>JOG</fromcity>
+            <tocity>CGK</tocity>
+            <departdate>24-Feb-2017</departdate>
+            <departtime>11:00</departtime>
+            <arrivetime>12:10</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+
+          <flight>
+            <flightno>SJ188</flightno>
+            <airlinecode>SJ</airlinecode>
+            <fromcity>CGK</fromcity>
+            <tocity>PNK</tocity>
+            <departdate>24-Feb-2017</departdate>
+            <departtime>16:45</departtime>
+            <arrivetime>18:10</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+
+        </listflight>
+        <listclassgroup>
+
+
+          <classgroup>
+
+            <class>
+              <code>O</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>U</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>X</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>E</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>G</code>
+              <availcode>9</availcode>
+              <fare>418000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>V</code>
+              <availcode>9</availcode>
+              <fare>451000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>T</code>
+              <availcode>9</availcode>
+              <fare>495000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Q</code>
+              <availcode>9</availcode>
+              <fare>539000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>9</availcode>
+              <fare>594000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>9</availcode>
+              <fare>649000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>L</code>
+              <availcode>9</availcode>
+              <fare>704000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>9</availcode>
+              <fare>759000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>H</code>
+              <availcode>9</availcode>
+              <fare>814000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>9</availcode>
+              <fare>869000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>W</code>
+              <availcode>9</availcode>
+              <fare>924000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>S</code>
+              <availcode>9</availcode>
+              <fare>979000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>9</availcode>
+              <fare>1042800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+          <classgroup>
+
+            <class>
+              <code>O</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>U</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>X</code>
+              <availcode>5</availcode>
+              <fare>456000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>E</code>
+              <availcode>9</availcode>
+              <fare>500000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>G</code>
+              <availcode>9</availcode>
+              <fare>544000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>V</code>
+              <availcode>9</availcode>
+              <fare>599000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>T</code>
+              <availcode>9</availcode>
+              <fare>687000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Q</code>
+              <availcode>9</availcode>
+              <fare>775000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>9</availcode>
+              <fare>863000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>9</availcode>
+              <fare>951000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>L</code>
+              <availcode>9</availcode>
+              <fare>1039000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>9</availcode>
+              <fare>1127000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>H</code>
+              <availcode>9</availcode>
+              <fare>1215000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>9</availcode>
+              <fare>1303000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>W</code>
+              <availcode>9</availcode>
+              <fare>1391000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>S</code>
+              <availcode>9</availcode>
+              <fare>1457000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>9</availcode>
+              <fare>1507600</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+
+        </listclassgroup>
+      </item>
+
+      <item>
+        <listflight>
+
+          <flight>
+            <flightno>SJ231</flightno>
+            <airlinecode>SJ</airlinecode>
+            <fromcity>JOG</fromcity>
+            <tocity>CGK</tocity>
+            <departdate>24-Feb-2017</departdate>
+            <departtime>11:00</departtime>
+            <arrivetime>12:10</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+
+          <flight>
+            <flightno>SJ184</flightno>
+            <airlinecode>SJ</airlinecode>
+            <fromcity>CGK</fromcity>
+            <tocity>PNK</tocity>
+            <departdate>24-Feb-2017</departdate>
+            <departtime>18:25</departtime>
+            <arrivetime>19:50</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+
+        </listflight>
+        <listclassgroup>
+
+
+          <classgroup>
+
+            <class>
+              <code>O</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>U</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>X</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>E</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>G</code>
+              <availcode>9</availcode>
+              <fare>418000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>V</code>
+              <availcode>9</availcode>
+              <fare>451000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>T</code>
+              <availcode>9</availcode>
+              <fare>495000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Q</code>
+              <availcode>9</availcode>
+              <fare>539000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>9</availcode>
+              <fare>594000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>9</availcode>
+              <fare>649000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>L</code>
+              <availcode>9</availcode>
+              <fare>704000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>9</availcode>
+              <fare>759000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>H</code>
+              <availcode>9</availcode>
+              <fare>814000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>9</availcode>
+              <fare>869000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>W</code>
+              <availcode>9</availcode>
+              <fare>924000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>S</code>
+              <availcode>9</availcode>
+              <fare>979000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>9</availcode>
+              <fare>1042800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+          <classgroup>
+
+            <class>
+              <code>O</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>U</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>X</code>
+              <availcode>5</availcode>
+              <fare>456000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>E</code>
+              <availcode>9</availcode>
+              <fare>500000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>G</code>
+              <availcode>9</availcode>
+              <fare>544000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>V</code>
+              <availcode>9</availcode>
+              <fare>599000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>T</code>
+              <availcode>9</availcode>
+              <fare>687000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Q</code>
+              <availcode>9</availcode>
+              <fare>775000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>9</availcode>
+              <fare>863000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>9</availcode>
+              <fare>951000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>L</code>
+              <availcode>9</availcode>
+              <fare>1039000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>9</availcode>
+              <fare>1127000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>H</code>
+              <availcode>9</availcode>
+              <fare>1215000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>9</availcode>
+              <fare>1303000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>W</code>
+              <availcode>9</availcode>
+              <fare>1391000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>S</code>
+              <availcode>9</availcode>
+              <fare>1457000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>9</availcode>
+              <fare>1507600</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+
+        </listclassgroup>
+      </item>
+
+      <item>
+        <listflight>
+
+          <flight>
+            <flightno>GA 209</flightno>
+            <airlinecode>GA</airlinecode>
+            <fromcity>JOG</fromcity>
+            <tocity>CGK</tocity>
+            <departdate>24-Feb-2017</departdate>
+            <departtime>14:20</departtime>
+            <arrivetime>15:35</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+
+          <flight>
+            <flightno>GA 508</flightno>
+            <airlinecode>GA</airlinecode>
+            <fromcity>CGK</fromcity>
+            <tocity>PNK</tocity>
+            <departdate>24-Feb-2017</departdate>
+            <departtime>17:10</departtime>
+            <arrivetime>18:50</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+
+        </listflight>
+        <listclassgroup>
+
+
+          <classgroup>
+
+            <class>
+              <code>G</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>0</availcode>
+              <fare>1056000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>0</availcode>
+              <fare>1089000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>0</availcode>
+              <fare>1122000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>0</availcode>
+              <fare>1138500</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>9</availcode>
+              <fare>1152800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>2</availcode>
+              <fare>1681900</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>9</availcode>
+              <fare>2004200</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>9</availcode>
+              <fare>2261600</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>J</code>
+              <availcode>9</availcode>
+              <fare>2647700</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+          <classgroup>
+
+            <class>
+              <code>G</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>0</availcode>
+              <fare>1268000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>0</availcode>
+              <fare>1378000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>0</availcode>
+              <fare>1510000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>0</availcode>
+              <fare>1653000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>9</availcode>
+              <fare>1804800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>2</availcode>
+              <fare>2401000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>9</availcode>
+              <fare>2852000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>9</availcode>
+              <fare>3212800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>J</code>
+              <availcode>9</availcode>
+              <fare>3754000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+
+        </listclassgroup>
+      </item>
+
+      <item>
+        <listflight>
+
+          <flight>
+            <flightno>GA 211</flightno>
+            <airlinecode>GA</airlinecode>
+            <fromcity>JOG</fromcity>
+            <tocity>CGK</tocity>
+            <departdate>24-Feb-2017</departdate>
+            <departtime>15:05</departtime>
+            <arrivetime>16:25</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+
+          <flight>
+            <flightno>GA 508</flightno>
+            <airlinecode>GA</airlinecode>
+            <fromcity>CGK</fromcity>
+            <tocity>PNK</tocity>
+            <departdate>24-Feb-2017</departdate>
+            <departtime>17:10</departtime>
+            <arrivetime>18:50</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+
+        </listflight>
+        <listclassgroup>
+
+
+          <classgroup>
+
+            <class>
+              <code>T</code>
+              <availcode>9</availcode>
+              <fare>913000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>G</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Q</code>
+              <availcode>9</availcode>
+              <fare>1010900</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>9</availcode>
+              <fare>1056000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>9</availcode>
+              <fare>1089000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>9</availcode>
+              <fare>1122000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>9</availcode>
+              <fare>1138500</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>9</availcode>
+              <fare>1152800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>2</availcode>
+              <fare>1681900</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>9</availcode>
+              <fare>2004200</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>9</availcode>
+              <fare>2261600</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>J</code>
+              <availcode>9</availcode>
+              <fare>2647700</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+          <classgroup>
+
+            <class>
+              <code>G</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>9</availcode>
+              <fare>1268000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>9</availcode>
+              <fare>1378000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>9</availcode>
+              <fare>1510000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>9</availcode>
+              <fare>1653000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>9</availcode>
+              <fare>1804800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>2</availcode>
+              <fare>2401000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>9</availcode>
+              <fare>2852000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>9</availcode>
+              <fare>3212800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>J</code>
+              <availcode>9</availcode>
+              <fare>3754000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+
+        </listclassgroup>
+      </item>
+
+      <item>
+        <listflight>
+
+          <flight>
+            <flightno>IN237</flightno>
+            <airlinecode>SJ</airlinecode>
+            <fromcity>JOG</fromcity>
+            <tocity>PNK</tocity>
+            <departdate>24-Feb-2017</departdate>
+            <departtime>16:45</departtime>
+            <arrivetime>18:10</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+
+        </listflight>
+        <listclassgroup>
+
+
+          <classgroup>
+
+            <class>
+              <code>O</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>U</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>X</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>E</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>G</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>V</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>T</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Q</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>9</availcode>
+              <fare>968000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>L</code>
+              <availcode>9</availcode>
+              <fare>1056000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>9</availcode>
+              <fare>1144000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>H</code>
+              <availcode>9</availcode>
+              <fare>1232000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>9</availcode>
+              <fare>1320000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>W</code>
+              <availcode>9</availcode>
+              <fare>1408000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>S</code>
+              <availcode>9</availcode>
+              <fare>1507000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>9</availcode>
+              <fare>1599400</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>0</availcode>
+              <fare>2068000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+
+        </listclassgroup>
+      </item>
+
+      <item>
+        <listflight>
+
+          <flight>
+            <flightno>SJ235</flightno>
+            <airlinecode>SJ</airlinecode>
+            <fromcity>JOG</fromcity>
+            <tocity>CGK</tocity>
+            <departdate>24-Feb-2017</departdate>
+            <departtime>17:15</departtime>
+            <arrivetime>18:25</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+
+          <flight>
+            <flightno>SJ180</flightno>
+            <airlinecode>SJ</airlinecode>
+            <fromcity>CGK</fromcity>
+            <tocity>PNK</tocity>
+            <departdate>25-Feb-2017</departdate>
+            <departtime>05:45</departtime>
+            <arrivetime>07:10</arrivetime>
+            <stopover>0</stopover>
+          </flight>
+
+        </listflight>
+        <listclassgroup>
+
+
+          <classgroup>
+
+            <class>
+              <code>O</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>U</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>X</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>E</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>G</code>
+              <availcode>9</availcode>
+              <fare>418000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>V</code>
+              <availcode>9</availcode>
+              <fare>451000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>T</code>
+              <availcode>9</availcode>
+              <fare>495000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Q</code>
+              <availcode>9</availcode>
+              <fare>539000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>9</availcode>
+              <fare>594000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>9</availcode>
+              <fare>649000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>L</code>
+              <availcode>9</availcode>
+              <fare>704000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>9</availcode>
+              <fare>759000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>H</code>
+              <availcode>9</availcode>
+              <fare>814000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>9</availcode>
+              <fare>869000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>W</code>
+              <availcode>9</availcode>
+              <fare>924000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>S</code>
+              <availcode>9</availcode>
+              <fare>979000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>9</availcode>
+              <fare>1042800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>2</availcode>
+              <fare>1141800</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>4</availcode>
+              <fare>1243000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>8</availcode>
+              <fare>1342000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+          <classgroup>
+
+            <class>
+              <code>O</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>U</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>X</code>
+              <availcode>5</availcode>
+              <fare>456000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>E</code>
+              <availcode>9</availcode>
+              <fare>500000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>G</code>
+              <availcode>9</availcode>
+              <fare>544000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>V</code>
+              <availcode>9</availcode>
+              <fare>599000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>T</code>
+              <availcode>9</availcode>
+              <fare>687000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Q</code>
+              <availcode>9</availcode>
+              <fare>775000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>N</code>
+              <availcode>9</availcode>
+              <fare>863000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>M</code>
+              <availcode>9</availcode>
+              <fare>951000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>L</code>
+              <availcode>9</availcode>
+              <fare>1039000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>K</code>
+              <availcode>9</availcode>
+              <fare>1127000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>H</code>
+              <availcode>9</availcode>
+              <fare>1215000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>B</code>
+              <availcode>9</availcode>
+              <fare>1303000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>W</code>
+              <availcode>9</availcode>
+              <fare>1391000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>S</code>
+              <availcode>9</availcode>
+              <fare>1457000</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>Y</code>
+              <availcode>9</availcode>
+              <fare>1507600</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>I</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>D</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+            <class>
+              <code>C</code>
+              <availcode>0</availcode>
+              <fare>0</fare>
+              <currency>IDR</currency>
+              <pairid></pairid>
+            </class>
+
+          </classgroup>
+
+
+        </listclassgroup>
+      </item>
+
+    </listitem>
+  </trip>
+  <trip type="return">
+    <listitem>
+
+    </listitem>
+  </trip>
+</response>

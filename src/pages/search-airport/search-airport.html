@@ -1,0 +1,29 @@
+<!--
+  Generated template for the SearchAirport page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+  <ion-toolbar>
+      <ion-searchbar (ionInput)="getItems($event)"></ion-searchbar>
+
+    <ion-buttons start>
+      <button ion-button (click)="dismiss()">
+        <span ion-text color="primary" showWhen="ios,android,windows,browser">Close</span>
+      </button>
+    </ion-buttons>
+
+  </ion-toolbar>
+</ion-header>
+
+
+<ion-content padding>
+    <ion-list>
+      <ion-item *ngFor="let airportdata of airport" (click)="passToHome(airportdata)">
+        <h2><b>{{ airportdata.city + " (" + airportdata.iata+")"}} </b></h2>
+        <p>{{ airportdata.name }}</p>
+
+      </ion-item>
+    </ion-list>
+</ion-content>
